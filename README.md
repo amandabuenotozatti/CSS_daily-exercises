@@ -10,4 +10,4 @@ Espero que goste!</p>
 
 <h3>CSS - Exercise 01</h3> 
 
-<img src="01_Css-Tribute_to_Kobe_Bryant/CSS-1.png">
+<img src="01_Css-Triube_to_Kobe_Bryant/CSS-1.png">
