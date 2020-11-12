@@ -7,3 +7,5 @@ Espero que goste!
 
 
 Amanda Mell Bueno Tozatti. 
+
+<img src="1_Css-Triube_to_Kobe_Bryant/CSS-1.png"> 
