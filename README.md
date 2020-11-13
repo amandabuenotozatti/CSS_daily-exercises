@@ -9,10 +9,14 @@ Espero que goste!</p>
 <i>Amanda Mell Bueno Tozatti.</i> 
 
 <h3>CSS - Exercise 01</h3> 
+<h4>Tribute to Kobe Bryant</h4>
 
 <img src="01_Css-Triube_to_Kobe_Bryant/CSS-1.png">
 
 
+
+
 <h3>CSS - Exercise 02</h3>
+<h4>Rainbow background word: "Faith"</h4>
 
 ![Hnet-image](https://user-images.githubusercontent.com/70073178/99013591-947f6680-252f-11eb-9b2a-bf728aca5ddf.gif)
