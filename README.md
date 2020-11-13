@@ -15,4 +15,4 @@ Espero que goste!</p>
 
 <h3>CSS - Exercise 02</h3>
 
-![4m6etf](https://user-images.githubusercontent.com/70073178/99011879-d73f3f80-252b-11eb-83c1-acb190b40703.gif)
+![Hnet-image](https://user-images.githubusercontent.com/70073178/99013591-947f6680-252f-11eb-9b2a-bf728aca5ddf.gif)
