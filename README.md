@@ -27,3 +27,8 @@ Espero que goste!</p>
 <h5>Rainbow background word: "Faith"</h5>
 
 ![Hnet-image](https://user-images.githubusercontent.com/70073178/99013591-947f6680-252f-11eb-9b2a-bf728aca5ddf.gif)
+
+<h3>CSS - Exercise 03</h3>
+<h5>Parrot</h5>
+
+![parrot](https://user-images.githubusercontent.com/70073178/102267178-437cdc80-3ef8-11eb-89cc-438c23580807.gif)
